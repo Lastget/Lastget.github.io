@@ -2,7 +2,7 @@
 title: "Visualization: Covid 19 Job Risk" 
 date: 2020-03-25
 tags: [visualization, bokeh, data science] 
-headers: 
+header: 
   image: "/images/visualizations/Covid_job_risk.jpg"
 excerpt:  "Visualization, Bokeh"
 ---
