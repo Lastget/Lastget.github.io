@@ -5,6 +5,7 @@ tags: [visualization, bokeh, data science]
 header: 
   image: "/images/visualizations/Covid_job_risk.jpg"
 excerpt:  "Visualization, Bokeh"
+classes: wide
 ---
 
 ## 各職業對新型冠狀病毒之風險
