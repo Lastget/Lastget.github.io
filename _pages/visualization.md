@@ -4,7 +4,7 @@ permalink: /visualizations/
 title: "Visualizations by Tags"
 author_profile: true 
 header: 
-  image: "/images/yangming_1440_450.jpg"
+  image:  "/images/101_1440_450.jpg"
 ---
 
 
